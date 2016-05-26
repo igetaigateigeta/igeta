@@ -7,7 +7,8 @@ script:
   - php test.php
 
 notifications:
-  emails:
+  email:
     - scottie-460546@docomo.ne.jp
-  on_success: always # default: change
+    - igetaigateigeta@gmail.com
+  on_success: always
   on_failure: always
