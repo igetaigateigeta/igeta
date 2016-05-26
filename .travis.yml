@@ -9,3 +9,5 @@ script:
 notifications:
   emails:
     - igetaigateigeta@gmail.com
+  on_success: always # default: change
+  on_failure: always
