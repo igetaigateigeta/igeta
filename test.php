@@ -1,4 +1,4 @@
 <?php
 
 
-throw new Exception('‚¨‚¶‚³‚ñ'); 
+throw new Exception('“y‰ºÀ'); 
