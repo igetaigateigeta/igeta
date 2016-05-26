@@ -8,6 +8,6 @@ script:
 
 notifications:
   emails:
-    - igetaigateigeta@gmail.com
+    - scottie-460546@docomo.ne.jp
   on_success: always # default: change
   on_failure: always
